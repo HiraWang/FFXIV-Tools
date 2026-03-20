@@ -7,7 +7,7 @@
 在 repo 根目錄執行：
 
 ```sh
-cd web && python3 -m http.server 8000
+python3 -m http.server 8000
 ```
 
 然後打開：
